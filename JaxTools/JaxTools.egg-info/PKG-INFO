@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: JaxTools
+Version: 0.0.1
+Summary: A small object module
+Author-email: Rayaan khan <rayaanstudent@gmail.com>
+Project-URL: Homepage, https://github.com/MMXXII2022/Jax-tools/
+Project-URL: Bug Tracker, https://github.com/MMXXII2022/Jax-tools/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: 
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# JaxTools
+***
+A module in which you define your own objects using builtin tools for resetting
+adding help statements, text, and names or references.
+
+***
